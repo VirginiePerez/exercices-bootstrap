@@ -1,0 +1,21 @@
+h1,h2{
+    text-align: center;
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+    margin: auto;
+    margin-bottom: 20px;
+
+}
+
+.paiement{
+    border-top: 1px solid #000;
+    padding-top: 20px;
+
+}
+.M2i{
+    padding-top: 45px;
+    text-align: center;
+}
